@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="407f4454-c629-4f66-96a5-11731a550c5d" name="Default Changelist" comment="" />
+    <list default="true" id="407f4454-c629-4f66-96a5-11731a550c5d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ipmM69GNSKhoLAhRkV3fXDJ9yh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -94,18 +101,42 @@
       <updated>1602612856651</updated>
       <workItem from="1602612857736" duration="15173000" />
       <workItem from="1604024778158" duration="2790000" />
-      <workItem from="1604105111905" duration="5469000" />
+      <workItem from="1604105111905" duration="8093000" />
     </task>
+    <task id="LOCAL-00001" summary="Creation">
+      <created>1604359153465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604359153465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Creation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1703" y="102" width="1077" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602619831289">
       <screen x="1440" y="23" width="1600" height="836" />
     </state>
     <state x="1703" y="102" width="1077" height="678" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/1440.23.1600.836@1440.23.1600.836" timestamp="1602619831289" />
+    <state x="165" y="25" key="CommitChangelistDialog2" timestamp="1604359153299">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="165" y="25" key="CommitChangelistDialog2/0.23.1440.836/1440.0.1600.900@0.23.1440.836" timestamp="1604359153299" />
+    <state x="528" y="344" key="Github.ShareDialog" timestamp="1604359071881">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="528" y="344" key="Github.ShareDialog/0.23.1440.836/1440.0.1600.900@0.23.1440.836" timestamp="1604359071881" />
+    <state x="389" y="153" key="Github.UntrackedFilesDialog" timestamp="1604359081878">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="389" y="153" key="Github.UntrackedFilesDialog/0.23.1440.836/1440.0.1600.900@0.23.1440.836" timestamp="1604359081878" />
     <state width="1417" height="216" key="GridCell.Tab.0.bottom" timestamp="1604264704606">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
@@ -175,5 +206,13 @@
     </state>
     <state x="1770" y="89" key="SettingsEditor/0.0.1440.900/1440.0.1600.900@1440.0.1600.900" timestamp="1602616522094" />
     <state x="1770" y="110" key="SettingsEditor/0.23.1440.836/1440.23.1600.877@1440.23.1600.877" timestamp="1602691381202" />
+    <state x="319" y="180" key="Vcs.Push.Dialog.v2" timestamp="1604359158192">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="319" y="180" key="Vcs.Push.Dialog.v2/0.23.1440.836/1440.0.1600.900@0.23.1440.836" timestamp="1604359158192" />
+    <state x="488" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604359111347">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="488" y="360" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.836/1440.0.1600.900@0.23.1440.836" timestamp="1604359111347" />
   </component>
 </project>
